@@ -1,0 +1,4 @@
+"Problem","Package","File","Priority","Line","Description","Rule set","Rule"
+"1","","/home/enrico/Desktop/ENRICO/Svizzera/USI/2nd Semester/Programming Fundamentals 2/Final Project/project-html-alessandro-enrico/Main.java","3","12","All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.","Design","UseUtilityClass"
+"2","","/home/enrico/Desktop/ENRICO/Svizzera/USI/2nd Semester/Programming Fundamentals 2/Final Project/project-html-alessandro-enrico/TokenFactory.java","1","29","An empty method in an abstract class should be abstract instead","Code Style","EmptyMethodInAbstractClassShouldBeAbstract"
+"3","","/home/enrico/Desktop/ENRICO/Svizzera/USI/2nd Semester/Programming Fundamentals 2/Final Project/project-html-alessandro-enrico/TokenType.java","3","18","Perhaps 'name' could be replaced by a local variable.","Design","SingularField"

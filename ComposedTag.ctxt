@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ComposedTag
+comment0.text=\n\ An\ HTML\ Tag\ Node.\n\ @author\ Enrico\ Benedettini\ and\ Alessandro\ Cravioglio\n
+comment1.params=
+comment1.target=ComposedTag()
+comment1.text=\n\ the\ constructor\ of\ the\ tag\ class.\n
+comment2.params=
+comment2.target=Type\ getType()
+comment2.text=\n\ check\ the\ type\ of\ the\ tag.\n\ @return\ the\ type\ of\ the\ tag\n
+comment3.params=child
+comment3.target=void\ addChildren(Node)
+comment3.text=\n\ Add\ a\ new\ ComposedTag\ child\ to\ this\ Tag.\n\ @param\ child\ the\ ComposedTag\ child\ to\ be\ added\n
+comment4.params=levelCounter
+comment4.target=java.lang.String\ toString(int)
+comment4.text=\n\ Transpose\ to\ string\ the\ tag\ and\ his\ childs\ as\ in\ html\ txt.\n\ @param\ levelCounter\ checks\ the\ level\ of\ indentation\ of\ the\ tag\n\ @return\ a\ string\ containing\ the\ opening\ tag,\ the\ childrens\ and\n\ \ \ \ \ \ \ \ \ the\ closing\ tag\n
+comment5.params=levelCounter
+comment5.target=java.lang.String\ prettyPrintChildren(int)
+comment5.text=\n\ Checks\ the\ level\ of\ indentation\ of\ the\ children\ and\ transpose\ them\n\ to\ string\ as\ correct\ html\ source\ code\ with\ the\ right\ level\ of\ indentation.\n\ @param\ levelCounter\ the\ level\ of\ indentation\ of\ the\ current\ tag\n\ @return\ a\ string\ containing\ the\ correctly\ inentated\ html\ source\ code\n
+comment6.params=
+comment6.target=int\ count()
+comment7.params=levelCounter
+comment7.target=int\ countLevels(int)
+numComments=8

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\n\ Main\ class\ to\ make\ the\ program\ work.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ The\ Main\ method.\n\ @param\ args\ the\ args\n
+comment2.params=fixedCode
+comment2.target=void\ writeCodeIntoFile(java.lang.String)
+comment2.text=\n\ Method\ to\ write\ into\ a\ file\ the\ code.\n\ @param\ fixedCode\ the\ fixedCode\ String\ to\ write\ into\ the\ file\n
+numComments=3

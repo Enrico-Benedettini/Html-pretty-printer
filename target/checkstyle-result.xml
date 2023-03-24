@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.18">
+<file name="/home/enrico/Desktop/ENRICO/Svizzera/USI/2nd Semester/Programming Fundamentals 2/Final Project/project-html-alessandro-enrico/Token.java">
+<error line="14" column="8" severity="warning" message="Unused @param tag for &apos;startPosition&apos;." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck"/>
+</file>
+<file name="/home/enrico/Desktop/ENRICO/Svizzera/USI/2nd Semester/Programming Fundamentals 2/Final Project/project-html-alessandro-enrico/HtmlParser.java">
+</file>
+</checkstyle>

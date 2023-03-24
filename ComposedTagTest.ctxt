@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ComposedTagTest
+comment0.text=\n\ Test\ getType,\ toString\ and\ prettyPrintChildren\n\ of\ composedTag\ subclasses.\n
+comment1.params=
+comment1.target=void\ testComposedTag()
+comment2.params=
+comment2.target=void\ testChild()
+numComments=3

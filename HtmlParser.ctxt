@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=HtmlParser
+comment0.text=\n\ The\ Html\ parser\ class.\n\ @author\ Enrico\ Benedettini\ and\ Alessandro\ Cravioglio\n
+comment1.params=sourceCode
+comment1.target=ComposedTag\ parse(java.lang.String)
+comment1.text=\n\ Parse\ a\ program\ in\ the\ Html\ language.\n\ @param\ sourceCode\ The\ source\ code\ of\ the\ program\ in\ the\ Html\ language\n\ @return\ an\ AST\ of\ the\ program\n
+comment2.params=
+comment2.target=Img\ parseImg()
+comment2.text=\n\ Parse\ the\ Img\ Tag.\n\ @return\ the\ img\ Node\n
+comment3.params=
+comment3.target=Content\ parseContent()
+comment3.text=\n\ Parse\ the\ content\ of\ a\ Tag,\ the\ content\ is\n\ the\ children\ of\ a\ Tag\ without\ children.\n\ @return\ a\ Content\ Node\n
+comment4.params=
+comment4.target=ComposedTag\ parseComposedTag()
+comment4.text=\n\ The\ ComposedTag\ parser.\ Every\ new\ Node\ that's\ being\ parsed\ can\n\ be\ either\ a\ composedTag\ or\ other\ Nodes.\n\ Here\ the\ ComposedTags\ are\ parsed\ and\ created.\n\ The\ resulting\ ComposedTag\ is\ a\ simple\ html\ Node,\ with\ all\ the\ \n\ children\ that\ depends\ from\ that.\n\ @return\ a\ ComposedTag\ representing\ the\ contained\ code\n
+comment5.params=
+comment5.target=ComposedTag\ processFirstPart()
+comment5.text=\n\ Method\ to\ process\ the\ first\ part\ of\ the\ Composed\ Tag.\n\ @return\ the\ processed\ tag\ produced\ by\ the\ first\ half\ of\ a\n\ \ \ \ \ \ \ \ \ ComposedTag\n
+comment6.params=
+comment6.target=int\ checkNext()
+comment6.text=\n\ Method\ to\ know\ the\ type\ of\ the\ next\ node.\n\ @return\ one\ of\ 0,1,2\ for\ Open\ tag,\ closed\ tag\ and\ content\n
+numComments=7
