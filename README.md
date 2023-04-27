@@ -10,5 +10,5 @@ To build, use 'mvn compile' or javac Main.java
 
 ## How to Run
 
-To run, type java Main fileName.html.
-Then insert another file name, which will be the new one pretty printed
+To run, type `java Main`.
+Next, you'll be asked your bad formatted code into the terminal. Once done, you'll be asked to enter the name of the file where the indented code will be written into 
